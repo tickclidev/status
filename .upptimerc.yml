@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://tickcli.com/favicon.svg
   name: tickcli status
   introTitle: tickcli status
-  introMessage: Live status of tickcli.com: website, docs, API and rooms. Checked every 5 minutes from GitHub.
+  introMessage: "Live status of tickcli.com: website, docs, API and games. Checked every 5 minutes from GitHub."
   navbar:
     - title: Status
       href: /
